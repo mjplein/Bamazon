@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLI shopping app",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjplein/Bamazon.git"
+  },
+  "author": "Matthew Plein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjplein/Bamazon/issues"
+  },
+  "homepage": "https://github.com/mjplein/Bamazon#readme"
+}
